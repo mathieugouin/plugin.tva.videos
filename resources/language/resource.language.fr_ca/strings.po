@@ -18,10 +18,12 @@ msgstr ""
 
 #This is a comment
 
-msgctxt "#32000"
-msgid "Example"
-msgstr ""
+msgctxt "#32110"
+msgid "Advanced"
+msgstr "Advanced settings"
 
-msgctxt "#32001"
+msgctxt "#32111"
 msgid "Debug"
-msgstr ""
+msgstr "Debug mode - Consult the kodi log file"
+
+
